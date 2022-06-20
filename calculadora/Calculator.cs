@@ -86,7 +86,7 @@ namespace calculadora
             }
             else
             {
-                MessageBox.Show("Enter a number to perform the subtraction.");
+                MessageBox.Show("Enter a number to perform the subtraction!");
             }            
         }
 
@@ -101,7 +101,7 @@ namespace calculadora
             }
             else
             {
-                MessageBox.Show("Enter a number to perform the multiplication.");
+                MessageBox.Show("Enter a number to perform the multiplication!");
             }            
         }
 
@@ -117,7 +117,7 @@ namespace calculadora
             }
             else
             {
-                MessageBox.Show("Enter a number to perform the division.");
+                MessageBox.Show("Enter a number to perform the division!");
             }
         }
 
@@ -164,7 +164,7 @@ namespace calculadora
                     break;
 
                 default:
-                    MessageBox.Show("Enter a number and click on the operator to perform the operation");
+                    MessageBox.Show("Enter a number and click on the operator to perform the operation!");
                     break;
             }
         }
@@ -180,7 +180,7 @@ namespace calculadora
             }
             else
             {
-                MessageBox.Show("Enter a number to perform the sum.");
+                MessageBox.Show("Enter a number to perform the sum!");
             }            
         }
     }
