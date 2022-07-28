@@ -8,5 +8,4 @@
 <ul>
   <li>C#</li>
   <li>Windows Forms</li>
-  <li>.NET Framework</li>
 </ul>
